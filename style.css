@@ -1,0 +1,92 @@
+
+
+h1{
+	font-family: helvetica, sans-serif;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-weight: bolder;
+	margin-left: 20px;
+	position: relative;
+	top: 20px;
+}
+
+h2{
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	margin-left: 10px;
+	color: white;
+	position: relative;
+	bottom:90px;
+
+}
+
+h3{
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	position: relative;
+	bottom: 1100px;px;
+	color: yellow;
+}
+
+body{
+	 background: linear-gradient(90deg, #232323, yellow);
+
+}
+
+#header{
+	background-color: white;
+	height: 90px;
+}
+
+#homepageimage{
+	width: 1775px;
+
+}
+
+#logoimage{
+		width: 250px;
+		position: relative;
+		left: 1500px;
+		bottom: 65px
+	}
+
+p{
+	margin-left: 20px;
+	position: absolute;
+	top:600px;
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	color: yellow;
+	line-height: 50px;
+}
+
+#arrow{
+	font-size: 5px;
+	color: yellow;
+	positon: relative;
+	top: 980px;
+}
+
+#naiveinfo{
+	margin-left: 20px;
+	positon: relative;
+	top: 1300px;
+	font-family: helvetica, sans-serif;
+	font-size: 15px;
+	color: yellow;
+	line-height: 40px;
+}
+
+.submit-btn{
+	border: yellow;
+	align-items: center;
+	size: 80px;
+	font-family: helvetica, sans-serif;
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-left: 20px;
+	position: relative;
+	bottom: 1080px;
+}
